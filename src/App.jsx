@@ -78,7 +78,7 @@ function App() {
 
     //** Type Effect **/
     const typingEffect = new Typed(".typedText", {
-      strings: ["Rings", "Necklaces", "Braceletsr"],
+      strings: ["Rings", "Necklaces", "Bracelets"],
       loop: true,
       typeSpeed: 150,
       backSpeed: 100,
